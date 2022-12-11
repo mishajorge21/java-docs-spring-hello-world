@@ -15,6 +15,6 @@ public class DemoApplication {
 
 	@RequestMapping("/")
 	String sayHello() {
-		return "Acceso a Java desde Azure!";
+		return "Acceso a Java desde Azure 2022!";
 	}
 }
